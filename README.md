@@ -71,14 +71,6 @@ O objetivo do projeto é aplicar boas práticas de arquitetura, organização de
 
 ---
 
-# 📊 Estatísticas GitHub
-
-![Gleison GitHub stats](https://github-readme-stats.vercel.app/api?username=GleisonDev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GleisonDev&layout=compact&theme=tokyonight)
-
----
-
 # 📚 Atualmente estudando
 
 - Microsserviços com Spring Cloud
